@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yevhen — Frontend Developer
+# 👋 Hi, I'm Yevhen — Web Developer
 
 I build clean, responsive and modern interfaces with **React**, focusing on performance, usability and simple architecture.  
 I enjoy working with component-driven design, animations, API-integrations and well-structured UI.
@@ -7,7 +7,7 @@ I enjoy working with component-driven design, animations, API-integrations and w
 
 ## ⚡ Tech Stack
 
-**Frontend:**  
+**:**  
 React • JavaScript (ES6+) • HTML5 • CSS3 • TailwindCSS • PHP  
 
 **Tools & Workflow:**  
